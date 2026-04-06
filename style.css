@@ -1,0 +1,68 @@
+
+
+body{
+    background-color: #f0ead2;
+}
+
+#bienvenida{
+    color: aliceblue;
+    font-size: x-large;
+    
+}
+.seccion {
+    background-color: #dde5b6;
+    height: 250px;
+    width: 825px;
+    
+}
+#imagenDerecha {
+    height: 250px;
+    width: 300px;
+    float: right;
+}
+#imagenIzquierda{
+    height: 250px;
+    width: 350px;
+    float: left;
+}
+.textosDescriptivos{
+    padding-top: 8px;
+    margin-left: 16px;
+    margin-right: 50px;
+    margin-top: 15px;
+    color: #a98467;
+    font-size: x-large;
+}
+.palabrasS{
+    color: #dbe1bc;
+    
+}
+.titulosI{
+    padding-top: 12px;
+    color: #dbe1bc;
+}
+.titulos{
+    padding-top: 12px;
+    color: #5e503f;
+}
+#fondo{
+    height: 720px;
+    width: 500px;
+    background-color: #5e503f;
+}
+iframe{
+        width: 370px;
+        height: 270px;
+
+           float: right;
+}
+.rrss{
+    height: 50px;
+}
+.bq{
+    background-color: #dbe1bc;
+    width: 73%;
+    height: 35px;
+    font-style:oblique;
+    font-size: large;
+}
