@@ -1,0 +1,4 @@
+Hacerle padding y margin a todos los textos
+Hacerle un seccion a sobre mi
+Armar la lista de receta, con un link a una playlist de cocina de spotify
+Hacer lo que pide de la clase pasada

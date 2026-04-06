@@ -1,5 +1,4 @@
 
-
 body{
     background-color: #f0ead2;
 }
@@ -7,6 +6,11 @@ body{
 #bienvenida{
     color: aliceblue;
     font-size: x-large;
+    
+}
+#bodyList{
+    font-family: cursive;
+    margin: 10px;
     
 }
 .seccion {
@@ -66,3 +70,9 @@ iframe{
     font-style:oblique;
     font-size: large;
 }
+ul li{
+            list-style-type: circle;    }
+
+ol li{
+        list-style-type: decimal;
+    }
