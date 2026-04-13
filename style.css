@@ -11,7 +11,7 @@ body{
 #bodyList{
     font-family: cursive;
     margin: 10px;
-    
+
 }
 .seccion {
     background-color: #dde5b6;
@@ -49,11 +49,22 @@ body{
     padding-top: 12px;
     color: #5e503f;
 }
+#fondoLista{
+    height: 720px;
+    width: 500px;
+    background-color: #5e503f;
+    margin: 0 auto;
+}
+
 #fondo{
     height: 720px;
     width: 500px;
     background-color: #5e503f;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
 }
+
 iframe{
         width: 370px;
         height: 270px;
@@ -69,10 +80,42 @@ iframe{
     height: 35px;
     font-style:oblique;
     font-size: large;
+    margin: 0 auto;
 }
-ul li{
-            list-style-type: circle;    }
 
+ul li{
+            list-style-type: circle;    
+            
+        }   
+
+#textoLista{
+    padding: 15px;
+}
 ol li{
         list-style-type: decimal;
     }
+
+    
+        #nav {
+            background-color: #a5a58d;
+            text-align: right;
+        }
+
+        #nav li {
+            display: inline;
+            margin-right: 18px;
+        }
+
+        #nav a {
+            background-color: #a5a58d;
+            color:#5e503f;
+            padding: 12px 24px;
+            display: inline-block;
+        }
+
+        #nav a:hover {
+            background-color: #808080;
+            color: white;
+            padding: 10px 22px;
+            border: 2px solid black;
+        }
