@@ -245,7 +245,6 @@ ol li{
 /*Inicio*/
 
 
-/* CONTENEDOR CENTRAL */
 .intro-trivia {
   display: flex;
   justify-content: center;
@@ -253,9 +252,8 @@ ol li{
   height: 100vh;
 }
 
-/* CAJA ESTILO INDEX */
 .box {
-  background-color: rgba(94, 80, 63, 0.9); /* tu marrón pero con transparencia */
+  background-color: rgba(94, 80, 63, 0.9); 
   width: 650px;
 
   box-shadow: 0 0 40px rgba(0,0,0,0.6);
